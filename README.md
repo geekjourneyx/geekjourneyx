@@ -100,10 +100,6 @@
 ## 05. GitHub 档案
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekjourneyx&show_icons=true&rank_icon=github&locale=cn&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=geekjourneyx&locale=zh_Hans&hide_border=true" alt="GitHub Streak" />
 </p>
 
