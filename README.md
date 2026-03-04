@@ -101,7 +101,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geekjourneyx&show_icons=true&rank_icon=github&locale=cn&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekjourneyx&layout=compact&locale=cn&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
