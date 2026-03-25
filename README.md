@@ -10,7 +10,7 @@
 ```
 
 <h1>代码禅师 · Zen AI Coding</h1>
-<p><strong>大厂后端工程师 / 独立开发者 / AI Builder / AI 科技领域博主</strong></p>
+<p><strong>独立开发者 / AI Builder / AI 科技领域博主</strong></p>
 <p>用工程化思维打磨 AI Agent 工具，把想法变成可复用的 CLI、API 与工作流。</p>
 
 <p>
