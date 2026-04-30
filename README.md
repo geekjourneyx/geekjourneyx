@@ -16,7 +16,7 @@
 | --- | --- |
 | [jina-cli](https://github.com/geekjourneyx/jina-cli) | 网页内容抓取，Agent 检索输入层 |
 | [agent-fs](https://github.com/geekjourneyx/agent-fs) | Agent 文件上传 / 下载工具链 |
-| [md2wechat-lite](https://github.com/geekjourneyx/md2wechat-lite) | Markdown → 公众号排版，一键上传草稿 |
+| [md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | Markdown → 公众号排版，一键上传草稿 |
 
 ## md2wechat
 
