@@ -1,43 +1,52 @@
 <div align="center">
-
-# geekjourney
-
-独立开发者，专注 AI-native 工具创作
-*Indie developer building AI-native tools for creators*
-
-md2wechat 的创始人 — 帮创作者把 Markdown 一键转成精美的公众号排版
-
+  <img src="./assets/profile/hero.svg" width="100%" alt="极客杰尼 — AI Builder 与 Harness Engineer，持续构建可复用的 AI 系统" />
 </div>
 
----
+<br />
 
-## 代表作
+<img src="./assets/profile/proof.svg" width="100%" alt="10+ 年软件工程经验，md2wechat 3.5K+ Stars，四个代表系统" />
 
-[![md2wechat-skill](https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat&label=md2wechat-skill&color=FFD700&logo=github)](https://github.com/geekjourneyx/md2wechat-skill)
+## 代表作品
 
-**[md2wechat](https://www.md2wechat.cn)** — Markdown → 微信公众号，一键排版发布  
-48 套主题 · 40+ 排版模块 · CLI + MCP + Obsidian 插件 · Web 编辑器
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/geekjourneyx/md2wechat-skill">
+        <img src="./assets/profile/project-md2wechat.svg" width="100%" alt="md2wechat — Agent 公众号发布引擎" />
+      </a>
+      <br />
+      <a href="https://github.com/geekjourneyx/md2wechat-skill"><img src="https://img.shields.io/github/stars/geekjourneyx/md2wechat-skill?style=flat-square&amp;label=Stars&amp;color=C6A15B&amp;labelColor=070707" alt="md2wechat GitHub Stars" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/geekjourneyx/hyperframes-motion-director">
+        <img src="./assets/profile/project-hyperframes.svg" width="100%" alt="HyperFrames — Agent 动态视觉导演" />
+      </a>
+      <br />
+      <a href="https://github.com/geekjourneyx/hyperframes-motion-director"><img src="https://img.shields.io/github/stars/geekjourneyx/hyperframes-motion-director?style=flat-square&amp;label=Stars&amp;color=C6A15B&amp;labelColor=070707" alt="HyperFrames GitHub Stars" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/geekjourneyx/awesome-codex-guide">
+        <img src="./assets/profile/project-codex-guide.svg" width="100%" alt="awesome-codex-guide — Codex 与 Harness 工程指南" />
+      </a>
+      <br />
+      <a href="https://github.com/geekjourneyx/awesome-codex-guide"><img src="https://img.shields.io/github/stars/geekjourneyx/awesome-codex-guide?style=flat-square&amp;label=Stars&amp;color=C6A15B&amp;labelColor=070707" alt="awesome-codex-guide GitHub Stars" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/geekjourneyx/agora">
+        <img src="./assets/profile/project-agora.svg" width="100%" alt="Agora — 多 Agent 审议系统" />
+      </a>
+      <br />
+      <a href="https://github.com/geekjourneyx/agora"><img src="https://img.shields.io/github/stars/geekjourneyx/agora?style=flat-square&amp;label=Stars&amp;color=C6A15B&amp;labelColor=070707" alt="Agora GitHub Stars" /></a>
+    </td>
+  </tr>
+</table>
 
-→ [md2wechat 生态主页](https://github.com/md2wechat)
+## 联系与合作
 
----
+需要把内容创作、发布和增长做成系统？
 
-## 工具
+**内容增长系统 · Agent 工程 · 产品定制**
 
-| | 说明 |
-|---|---|
-| [obsidian-md2wechat](https://github.com/geekjourneyx/obsidian-md2wechat) ⭐215 | Obsidian → 微信草稿，一键同步 |
-| [md2wechat-mcp-server](https://github.com/geekjourneyx/md2wechat-mcp-server) ⭐46 | MCP Server，AI 对话中直接发布公众号 |
-| [feishu-md2wechat](https://github.com/geekjourneyx/feishu-md2wechat) ⭐55 | 飞书文档 → 公众号，保留格式 |
-
----
-
-## 当前在做
-
-围绕 md2wechat 构建 AI 时代的公众号创作基础设施。
-
----
-
-## 联系
-
-[jieni.ai](https://jieni.ai) · [X / Twitter](https://twitter.com/seekjourney) · 公众号：极客杰尼
+[jieni.ai](https://jieni.ai) · [X @seekjourney](https://x.com/seekjourney) · 公众号：**极客杰尼**

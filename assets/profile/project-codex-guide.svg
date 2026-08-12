@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="awesome-codex-guide，Codex 与 Harness 工程指南">
+  <title>awesome-codex-guide</title>
+  <desc>系统记录 Codex 使用、Harness 设计与工程实践。</desc>
+  <style>
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+  <rect width="600" height="210" rx="14" fill="#070707"/>
+  <rect x="1" y="1" width="598" height="208" rx="13" fill="none" stroke="#2A2318"/>
+  <text x="28" y="32" class="mono" font-size="11" letter-spacing="1.8" fill="#9B9181">SYSTEM 03</text>
+  <g transform="translate(30 65)" fill="none" stroke="#C6A15B" stroke-width="2">
+    <rect width="96" height="96" rx="12" stroke="#2A2318"/>
+    <path d="M23 23h24c8 0 12 5 12 11v43c0-7-5-10-12-10H23z"/>
+    <path d="M73 23H49c-8 0-12 5-12 11v43c0-7 5-10 12-10h24z" stroke="#E2C27A"/>
+    <path d="M48 33v34"/>
+  </g>
+  <g transform="translate(158 68)">
+    <text class="sans" font-size="25" font-weight="600" fill="#EFE7DA">awesome-codex-guide</text>
+    <text y="34" class="sans" font-size="18" fill="#C6A15B">Codex / Harness 工程指南</text>
+    <line y1="59" x2="402" y2="59" stroke="#2A2318"/>
+    <text y="86" class="sans" font-size="15" fill="#9B9181">系统记录 Codex 使用、Harness 设计</text>
+    <text y="109" class="sans" font-size="15" fill="#9B9181">与工程实践。</text>
+  </g>
+</svg>
