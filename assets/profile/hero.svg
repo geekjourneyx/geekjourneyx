@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="极客杰尼，AI Builder 与 Harness Engineer">
+  <title>极客杰尼 · AI Builder · Harness Engineer</title>
+  <desc>把内容创作、发布与增长，做成可复用的 AI 系统。持续分享 Agent Harness、AI 内容系统与开源产品实战。</desc>
+  <style>
+    .serif { font-family: "Noto Serif SC", "Source Han Serif SC", "Songti SC", STSong, "Noto Sans CJK SC", serif; }
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) {
+      .motion { display: none; }
+      .pulse { opacity: .45; }
+    }
+  </style>
+
+  <rect width="1280" height="420" rx="18" fill="#070707"/>
+  <rect x="1" y="1" width="1278" height="418" rx="17" fill="none" stroke="#2A2318"/>
+
+  <g transform="translate(58 48)">
+    <rect width="66" height="34" rx="17" fill="#0D0D0D" stroke="#C6A15B"/>
+    <text x="33" y="23" text-anchor="middle" class="mono" font-size="13" letter-spacing="2" fill="#E2C27A">GJ</text>
+    <line x1="84" y1="17" x2="196" y2="17" stroke="#2A2318"/>
+    <text x="212" y="22" class="mono" font-size="12" letter-spacing="1.8" fill="#9B9181">BUILDING SYSTEMS THAT COMPOUND</text>
+  </g>
+
+  <g transform="translate(58 156)">
+    <text class="serif" font-size="72" font-weight="700" letter-spacing="5" fill="#EFE7DA">极客杰尼</text>
+    <text y="48" class="sans" font-size="17" letter-spacing="1.5" fill="#C6A15B">AI Builder · Harness Engineer</text>
+    <text y="102" class="serif" font-size="29" fill="#EFE7DA">把内容创作、发布与增长，</text>
+    <text y="140" class="serif" font-size="29" fill="#EFE7DA">做成可复用的 AI 系统。</text>
+  </g>
+
+  <g transform="translate(58 350)">
+    <line x1="0" y1="0" x2="18" y2="0" stroke="#E2C27A" stroke-width="2"/>
+    <circle cx="25" cy="0" r="3" fill="#E2C27A"/>
+    <text x="42" y="5" class="sans" font-size="16" fill="#9B9181">持续分享 Agent Harness、AI 内容系统与开源产品实战。</text>
+  </g>
+
+  <g transform="translate(788 80)">
+    <text class="mono" font-size="11" letter-spacing="2" fill="#9B9181">THREE SYSTEMS / ONE PRACTICE</text>
+
+    <g transform="translate(0 64)">
+      <line x1="0" y1="0" x2="424" y2="0" stroke="#2A2318"/>
+      <circle cx="0" cy="0" r="5" fill="#C6A15B"/>
+      <circle cx="424" cy="0" r="3" fill="#2A2318"/>
+      <text x="18" y="-13" class="sans" font-size="17" fill="#EFE7DA">内容系统</text>
+      <text x="18" y="19" class="mono" font-size="10" letter-spacing="1.4" fill="#9B9181">CREATE · PUBLISH · GROW</text>
+    </g>
+
+    <g transform="translate(0 142)">
+      <line x1="0" y1="0" x2="424" y2="0" stroke="#2A2318"/>
+      <circle cx="0" cy="0" r="5" fill="#C6A15B"/>
+      <circle cx="212" cy="0" r="4" fill="#E2C27A"/>
+      <circle cx="424" cy="0" r="3" fill="#2A2318"/>
+      <text x="18" y="-13" class="sans" font-size="17" fill="#EFE7DA">Agent Harness</text>
+      <text x="18" y="19" class="mono" font-size="10" letter-spacing="1.4" fill="#9B9181">ROUTE · ACT · VERIFY</text>
+    </g>
+
+    <g transform="translate(0 220)">
+      <line x1="0" y1="0" x2="424" y2="0" stroke="#2A2318"/>
+      <circle cx="0" cy="0" r="5" fill="#C6A15B"/>
+      <circle cx="424" cy="0" r="3" fill="#2A2318"/>
+      <text x="18" y="-13" class="sans" font-size="17" fill="#EFE7DA">视觉创作</text>
+      <text x="18" y="19" class="mono" font-size="10" letter-spacing="1.4" fill="#9B9181">DIRECT · COMPOSE · RENDER</text>
+    </g>
+
+    <circle cx="424" cy="142" r="19" fill="none" stroke="#C6A15B" opacity=".35" class="pulse">
+      <animate class="motion" attributeName="opacity" values=".18;.55;.18" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle r="3" fill="#E2C27A">
+      <animateMotion class="motion" dur="9s" repeatCount="indefinite" path="M0 64 H424 V142 H0 V220 H424"/>
+    </circle>
+  </g>
+</svg>

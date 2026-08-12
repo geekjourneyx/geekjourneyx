@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="170" viewBox="0 0 1280 170" role="img" aria-label="极客杰尼的工程经验与开源作品证据">
+  <title>Proof of Work</title>
+  <desc>十年以上软件工程经验，md2wechat 旗舰项目超过三千五百 Stars，四个代表系统。</desc>
+  <style>
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+  <rect width="1280" height="170" rx="14" fill="#070707"/>
+  <rect x="1" y="1" width="1278" height="168" rx="13" fill="none" stroke="#2A2318"/>
+  <line x1="426" y1="30" x2="426" y2="140" stroke="#2A2318"/>
+  <line x1="853" y1="30" x2="853" y2="140" stroke="#2A2318"/>
+
+  <g transform="translate(52 48)">
+    <circle cx="5" cy="5" r="5" fill="#C6A15B"/>
+    <text x="26" y="12" class="mono" font-size="14" letter-spacing="2" fill="#9B9181">ENGINEERING</text>
+    <text y="59" class="sans" font-size="34" font-weight="600" fill="#EFE7DA">10+ YEARS</text>
+    <text y="88" class="sans" font-size="15" fill="#9B9181">软件工程经验</text>
+  </g>
+
+  <g transform="translate(478 48)">
+    <circle cx="5" cy="5" r="5" fill="#C6A15B"/>
+    <text x="26" y="12" class="mono" font-size="14" letter-spacing="2" fill="#9B9181">OPEN SOURCE</text>
+    <text y="59" class="sans" font-size="34" font-weight="600" fill="#EFE7DA">3.5K+ STARS</text>
+    <text y="88" class="sans" font-size="15" fill="#9B9181">md2wechat 旗舰项目</text>
+  </g>
+
+  <g transform="translate(905 48)">
+    <circle cx="5" cy="5" r="5" fill="#C6A15B"/>
+    <text x="26" y="12" class="mono" font-size="14" letter-spacing="2" fill="#9B9181">SELECTED WORK</text>
+    <text y="59" class="sans" font-size="34" font-weight="600" fill="#EFE7DA">4 SELECTED SYSTEMS</text>
+    <text y="88" class="sans" font-size="15" fill="#9B9181">内容 · Harness · 视觉 · 审议</text>
+  </g>
+</svg>

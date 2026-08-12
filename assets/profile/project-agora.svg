@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="Agora，多 Agent 审议系统">
+  <title>Agora</title>
+  <desc>用 31 位思想家的结构化辩论辅助复杂决策。</desc>
+  <style>
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+  <rect width="600" height="210" rx="14" fill="#070707"/>
+  <rect x="1" y="1" width="598" height="208" rx="13" fill="none" stroke="#2A2318"/>
+  <text x="28" y="32" class="mono" font-size="11" letter-spacing="1.8" fill="#9B9181">SYSTEM 04</text>
+  <g transform="translate(30 65)" fill="none" stroke="#C6A15B" stroke-width="2">
+    <rect width="96" height="96" rx="12" stroke="#2A2318"/>
+    <path d="M48 24L72 39 67 68 48 78 29 68 24 39z"/>
+    <circle cx="48" cy="24" r="4" fill="#C6A15B"/>
+    <circle cx="72" cy="39" r="4" fill="#C6A15B"/>
+    <circle cx="67" cy="68" r="4" fill="#C6A15B"/>
+    <circle cx="48" cy="78" r="4" fill="#C6A15B"/>
+    <circle cx="29" cy="68" r="4" fill="#C6A15B"/>
+    <circle cx="24" cy="39" r="4" fill="#C6A15B"/>
+    <circle cx="48" cy="51" r="5" fill="#E2C27A" stroke="none"/>
+  </g>
+  <g transform="translate(158 68)">
+    <text class="sans" font-size="30" font-weight="600" fill="#EFE7DA">Agora</text>
+    <text y="34" class="sans" font-size="18" fill="#C6A15B">多 Agent 审议系统</text>
+    <line y1="59" x2="402" y2="59" stroke="#2A2318"/>
+    <text y="86" class="sans" font-size="15" fill="#9B9181">用 31 位思想家的结构化辩论</text>
+    <text y="109" class="sans" font-size="15" fill="#9B9181">辅助复杂决策。</text>
+  </g>
+</svg>
