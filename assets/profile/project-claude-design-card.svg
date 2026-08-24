@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="claude-design-card，Claude Code 设计卡片 Skill">
+  <title>claude-design-card</title>
+  <desc>把任意内容生成 14 种平台封面、社交卡片和编辑设计。</desc>
+  <style>
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+  <rect width="600" height="210" rx="14" fill="#070707"/>
+  <rect x="1" y="1" width="598" height="208" rx="13" fill="none" stroke="#2A2318"/>
+  <text x="28" y="32" class="mono" font-size="11" letter-spacing="1.8" fill="#9B9181">SYSTEM 02</text>
+  <g transform="translate(30 65)" fill="none" stroke="#C6A15B" stroke-width="2">
+    <rect width="96" height="96" rx="12" stroke="#2A2318"/>
+    <rect x="18" y="20" width="52" height="38" rx="4"/>
+    <rect x="27" y="30" width="52" height="38" rx="4" stroke="#E2C27A"/>
+    <line x1="38" y1="44" x2="66" y2="44"/>
+    <line x1="38" y1="53" x2="59" y2="53"/>
+    <circle cx="72" cy="72" r="5" fill="#C6A15B" stroke="none"/>
+  </g>
+  <g transform="translate(158 68)">
+    <text class="sans" font-size="28" font-weight="600" fill="#EFE7DA">claude-design-card</text>
+    <text y="34" class="sans" font-size="18" fill="#C6A15B">Claude Code 设计卡片 Skill</text>
+    <line y1="59" x2="402" y2="59" stroke="#2A2318"/>
+    <text y="86" class="sans" font-size="15" fill="#9B9181">把任意内容生成 14 种平台封面、</text>
+    <text y="109" class="sans" font-size="15" fill="#9B9181">社交卡片和编辑设计。</text>
+  </g>
+</svg>

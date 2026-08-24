@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="210" viewBox="0 0 600 210" role="img" aria-label="jina-cli，Agent 网页读取 CLI">
+  <title>jina-cli</title>
+  <desc>把网页转换成适合大模型处理的 Markdown、Text 或 HTML。</desc>
+  <style>
+    .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+  </style>
+  <rect width="600" height="210" rx="14" fill="#070707"/>
+  <rect x="1" y="1" width="598" height="208" rx="13" fill="none" stroke="#2A2318"/>
+  <text x="28" y="32" class="mono" font-size="11" letter-spacing="1.8" fill="#9B9181">SYSTEM 04</text>
+  <g transform="translate(30 65)" fill="none" stroke="#C6A15B" stroke-width="2">
+    <rect width="96" height="96" rx="12" stroke="#2A2318"/>
+    <rect x="20" y="18" width="56" height="60" rx="5"/>
+    <path d="M30 36l8 7-8 7M45 51h19" stroke="#E2C27A"/>
+    <line x1="30" y1="62" x2="64" y2="62"/>
+  </g>
+  <g transform="translate(158 68)">
+    <text class="sans" font-size="30" font-weight="600" fill="#EFE7DA">jina-cli</text>
+    <text y="34" class="sans" font-size="18" fill="#C6A15B">Agent 网页读取 CLI</text>
+    <line y1="59" x2="402" y2="59" stroke="#2A2318"/>
+    <text y="86" class="sans" font-size="15" fill="#9B9181">把网页转换成适合大模型处理的</text>
+    <text y="109" class="sans" font-size="15" fill="#9B9181">Markdown、Text 或 HTML。</text>
+  </g>
+</svg>
