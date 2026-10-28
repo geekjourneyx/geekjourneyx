@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="./assets/profile/proof.svg" width="100%" alt="10+ 年软件工程经验，md2wechat 3.5K+ Stars，四个代表系统" />
+<img src="./assets/profile/proof.svg" width="100%" alt="10+ 年软件工程经验，md2wechat 3.7K+ Stars，四个代表系统" />
 
 ## 代表作品
 
@@ -45,8 +45,8 @@
 
 ## 联系与合作
 
-需要把内容创作、发布和增长做成系统？
+有具体的问题或产品想法，欢迎交流。
 
-**内容增长系统 · Agent 工程 · 产品定制**
+**AI 产品开发 · Agent 工作流 · 创作工具**
 
 [jieni.ai](https://jieni.ai) · [X @seekjourney](https://x.com/seekjourney) · 公众号：**极客杰尼**

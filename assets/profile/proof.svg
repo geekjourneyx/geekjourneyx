@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="170" viewBox="0 0 1280 170" role="img" aria-label="极客杰尼的工程经验与开源作品证据">
   <title>Proof of Work</title>
-  <desc>十年以上软件工程经验，md2wechat 旗舰项目超过三千五百 Stars，四个代表系统。</desc>
+  <desc>十年以上软件工程经验，md2wechat 旗舰项目超过三千七百 Stars，四个代表系统。</desc>
   <style>
     .sans { font-family: Inter, Arial, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
@@ -20,7 +20,7 @@
   <g transform="translate(478 48)">
     <circle cx="5" cy="5" r="5" fill="#C6A15B"/>
     <text x="26" y="12" class="mono" font-size="14" letter-spacing="2" fill="#9B9181">OPEN SOURCE</text>
-    <text y="59" class="sans" font-size="34" font-weight="600" fill="#EFE7DA">3.5K+ STARS</text>
+    <text y="59" class="sans" font-size="34" font-weight="600" fill="#EFE7DA">3.7K+ STARS</text>
     <text y="88" class="sans" font-size="15" fill="#9B9181">md2wechat 旗舰项目</text>
   </g>
 
